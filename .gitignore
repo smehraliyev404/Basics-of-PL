@@ -21,3 +21,4 @@ Icon?
 
 .venv/
 __pycache__/
+*.class
